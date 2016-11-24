@@ -3,7 +3,13 @@
 #include <math.h>
  
  
-void main(void)
+vSSDDSFSFSDFDSSDGDGSDGS
+SGDSGDSGSDVG
+SGSGASSAGD
+
+
+
+oid main(void)
 {
 int i,j,zakres,dokad;
 int tablica[10000];
