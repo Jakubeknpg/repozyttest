@@ -30,3 +30,6 @@ printf("Liczby pierwsze z zakresu od 1 do %d\n\n",zakres);
 for (i=2; i<=zakres; i++) if (tablica[i]!=0) printf("%d, ",i);
 getch();
 }
+AAAFAFAFFA
+FASAFAFASFAS
+AFASFFFASFQW3RASFQQQWDQ
