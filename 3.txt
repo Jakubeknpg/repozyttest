@@ -12,6 +12,10 @@ scanf("%d",&zakres);
 dokad=floor(sqrt(zakres));
 //inicjuj tablice
 for (i=1; i<=zakres; i++) tablica[i]=1;
+2EWVGFqewaBQWYKUfv28	liFVGKDASGFDSG
+zsdGASGSSXDDGSWADGSSDG
+
+
 //algorytm - sito eratostenesa
 for (i=2; i<=dokad; i++)
 {
